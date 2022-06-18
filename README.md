@@ -1,7 +1,7 @@
 # E-commerce
 
 
-This is an e-commerce app that allows the user to create an account, log in, and add/remove items to/from the cart. Once the user has selected the items they wish to purchase they are shown a total of their expenses and are able to utilize PayPal to pay for their items. They are then able to view their profile for a summary of their purchases and are able to see the paid and delivery status of their purchases. There are also some actions available to users that have admin privileges related to changing user information and deleting users. 
+This is an e-commerce app built with React and Django that allows the user to create an account, log in, and add/remove items to/from the cart. Once the user has selected the items they wish to purchase they are shown a total of their expenses and are able to utilize PayPal to pay for their items. They are then able to view their profile for a summary of their purchases and are able to see the paid and delivery status of their purchases. There are also some actions available to users that have admin privileges related to changing user information and deleting users. 
 
 
 <h3>Commands required to run this app: </h3>
